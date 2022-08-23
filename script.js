@@ -56,3 +56,5 @@ let menuLinks = [
   
   topMenuEl.addEventListener("click", clickHandler);
 
+  // trouble understanding event listeners and handlers.
+
